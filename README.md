@@ -33,6 +33,3 @@ This repository contains a systematically organized collection of academic liter
 
    \section{Consequence Studies}
    \input{table/consequence_table}
-
-
-          
