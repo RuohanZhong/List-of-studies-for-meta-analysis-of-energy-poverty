@@ -26,8 +26,4 @@ This repository contains a systematically organized collection of academic liter
    ```latex
    \bibliography{bib/incidence,bib/consequence}
 
-
-graph LR
-    A[incidence.bib] --> B[incidence_table.tex]
-    C[consequence.bib] --> D[consequence_table.tex]
           
