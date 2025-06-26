@@ -33,3 +33,7 @@ This repository contains a systematically organized collection of academic liter
 
    \section{Consequence Studies}
    \input{table/consequence_table}
+
+## 📜 License
+This project is licensed under the [Creative Commons Attribution 4.0 International License (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).
+
