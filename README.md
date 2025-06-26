@@ -26,4 +26,13 @@ This repository contains a systematically organized collection of academic liter
    ```latex
    \bibliography{bib/incidence,bib/consequence}
 
+2. **Table Integration**:
+   ```latex
+   \section{Incidence Studies}
+   \input{table/incidence_table}
+
+   \section{Consequence Studies}
+   \input{table/consequence_table}
+
+
           
